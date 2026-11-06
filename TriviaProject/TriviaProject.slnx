@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TriviaProject.vcxproj" Id="7252854b-f4b9-4da8-bbce-9b0a1be08c56" />
+</Solution>
